@@ -2,8 +2,8 @@
 //  XLZoomingScrollView.m
 //  XLPhotoBrowserDemo
 //
-//  Created by Liushannoon on 16/7/15.
-//  Copyright © 2016年 LiuShannoon. All rights reserved.
+//  Created by greatRong on 2017/5/9.
+//  Copyright © 2016年 greatRong. All rights reserved.
 //
 
 #import "XLZoomingScrollView.h"

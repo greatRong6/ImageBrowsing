@@ -2,8 +2,8 @@
 //  UIView+XLExtension.m
 //  TopHot
 //
-//  Created by Liushannoon on 16/4/20.
-//  Copyright © 2016年 Liushannoon. All rights reserved.
+//  Created by greatRong on 2017/5/9.
+//  Copyright © 2016年 greatRong. All rights reserved.
 //
 
 #import "UIView+XLExtension.h"

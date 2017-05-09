@@ -3,7 +3,7 @@
 //  XLPhotoBrowserDemo
 //
 //  Created by ehang on 2016/10/26.
-//  Copyright © 2016年 LiuShannoon. All rights reserved.
+//  Copyright © 2016年 greatRong. All rights reserved.
 //
 
 #import "UIImage+XLExtension.h"
